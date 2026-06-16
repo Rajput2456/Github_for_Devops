@@ -1,0 +1,25 @@
+ls -l
+rm testing.py
+ls
+git init
+ls -a
+git status
+git add testing.py
+ls
+git commit -m "added tesing files"
+Author identity unknown
+*** Please tell me who you are.
+Run
+git config --global --list
+git config --global user.name "stuti anand"
+git config --global user.email "stutianand95@gmail.com
+git config --global user.email "stutianand95@gmail.com
+git config --global --list
+pwd
+ls -la
+git status
+git add .
+git commit -m "added testing file"
+git rm --cached
+git rm --cached testing.py
+clear
