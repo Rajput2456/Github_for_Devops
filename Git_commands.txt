@@ -21,5 +21,26 @@ git status
 git add .
 git commit -m "added testing file"
 git rm --cached
-git rm --cached testing.py
+git rm --cached testing.pyq
 clear
+git remote add origin https://github.com/Rajput2456/Github_for_Devops.git
+git remote -v
+git push origin master
+git remote set-url origin 
+git remote -v
+git push origin master
+git remote set-url origin 
+git remote -v
+git push origin master
+git add Git_commands.txt
+git commit -m "added Git_command.txt"
+git push origin master
+git push origin master 
+git push -u origin master
+git push -u master
+git push
+git push origin master
+git add testing.py
+git commit -m "added to testing.py"
+git push origin master
+git pull origin master
