@@ -44,3 +44,4 @@ git add testing.py
 git commit -m "added to testing.py"
 git push origin master
 git pull origin master
+this is a command file 
